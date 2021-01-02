@@ -25,12 +25,13 @@ TODO:
 - DONE Create SOAK screen derived from RAMP screen
 - DONE Get logic working to move forward and back through TEMP/RAMP/SOAK
 - Add a "clear unused cycles in values array" function after the user hits next on the summary screen
-- DONE Get NAME page UI built
+- ESP32: Fix NAME page char scrolling
+- ESP32: Add back in nice fonts
 - DONE Save name into temp variiable
 - Get saving full Preset to SD card working
 - Optimize draw space for home screen scrolling by making buttons mostly static
 - DONE Get SUMMARY page UI built (optional)
-- Allow user to scroll through summary page (perhaps using different text overlapping on the default text, might work without a white overlay)
+- DONE Allow user to scroll through summary page (perhaps using different text overlapping on the default text, might work without a white overlay)
 
 **********************************************/
 
